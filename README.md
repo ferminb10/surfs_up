@@ -42,6 +42,4 @@ Below is a breakdown of the number of votes and their respective percentage of t
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
 
-
-
-Based on the functionality of this script, it's propose can be used for other elections big or small. It would be an interesting parameter to see the geographical location of each person who voted and create a heat map. This will give valuable information of where to do more outreaching to get a more wholistic representation of the local population. The limitations of this dataset are that they only limit a few parameters. It would also be interesting to see the age groups and genders that participated in the election so that the parties can go about better strategizing for target audiences they struggled. 
+Based on the summary statistic results, it's is seen that on average, temperatures between both months are sustainanle enough to start a surf and ice cream shop business year-round. Other paramaters such as tidal activity can be a important parameter to further investigate whether a surf shop is sustainable year round. This will give valuable information if people surf in the cold months. Also another query should be made for each winter month of Hawaii. It was just assumed that December was the coldest month. This is a major limitation of for requirements. 
