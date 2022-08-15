@@ -15,8 +15,8 @@ The analysis had few tasks. For Deliverable 1 and Deliverable 2 Using Python, Pa
   * 64F
 * Maximum Temperature
   * 85F
-* Standard Deviation
-  * (+/-) 3.26F
+* Standard Deviation (+/-)
+  * 3.26F
 
 
 ### December Temperature Summary Statistics
@@ -28,8 +28,8 @@ The analysis had few tasks. For Deliverable 1 and Deliverable 2 Using Python, Pa
   * 56F
 * Maximum Temperature
   * 83F
-* Standard Deviation
-  * (+/-) 3.75F
+* Standard Deviation (+/-)
+  * 3.75F
 
 
 ## Summary
