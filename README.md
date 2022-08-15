@@ -16,11 +16,11 @@ The analysis had few tasks. For Deliverable 1 and Deliverable 2 Using Python, Pa
 
 ### June Temperature Summary Statistics
 ![june_temps](https://user-images.githubusercontent.com/107658895/184564290-11f934c2-86f1-44c6-9b69-5bc9eec5b2f8.png)
-##### Figure 1 above displays the temperature summary statistics for the month of December
+##### Figure 1: Displays the temperature summary statistics for the month of December
 
 ### December Temperature Summary Statistics
 ![december_temps](https://user-images.githubusercontent.com/107658895/184564409-3733e5e9-ecc5-42b7-9dbc-f189a45bd505.png)
-##### Figure 2 above displays the temperature summary statistics for the month of December
+##### Figure 2: Displays the temperature summary statistics for the month of December
 
 In this congressional election, there were 369,711 votes that were cast. Provided below are the counties with the largest number of votes in decending order:
 * Denver
