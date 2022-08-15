@@ -42,4 +42,7 @@ Below is a breakdown of the number of votes and their respective percentage of t
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
 
-Based on the summary statistic results, it's is seen that on average, temperatures between both months are sustainanle enough to start a surf and ice cream shop business year-round. Other paramaters such as tidal activity can be a important parameter to further investigate whether a surf shop is sustainable year round. This will give valuable information if people surf in the cold months. Also another query should be made for each winter month of Hawaii. It was just assumed that December was the coldest month. This is a major limitation of for requirements. 
+Based on the summary statistic results for two months, it's seen that on average, temperatures are sustainanle enough to start a surf and ice cream shop business year-round. Other paramaters, such as tidal activity or tourist activity per island, can be a important parameters to further investigate whether a surf shop is sustainable year round. It'll give valuable information if people surf in the cold months and in which Hawaii island. Finally another query should be made for each winter month of Hawaii. It was just assumed that December was the coldest month. After further investigation for the month of january it was found that it was a much colder difference than June to December.
+
+![january_temps](https://user-images.githubusercontent.com/107658895/184568211-cb3e7270-00d1-400e-b9c6-d3a3aa80124d.png)
+
