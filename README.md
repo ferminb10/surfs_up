@@ -32,11 +32,11 @@ Below is a breakdown of the number of votes and their respective percentage of t
 
 ### Election Results Summary
 ![june_temps](https://user-images.githubusercontent.com/107658895/184564290-11f934c2-86f1-44c6-9b69-5bc9eec5b2f8.png)
-##### Figure 1 above displays the election results that were printed on the terminal and text file
+##### Figure 1 above displays the temperature summary statistics for the month of December
 
 ### Election Results Summary
 ![december_temps](https://user-images.githubusercontent.com/107658895/184564409-3733e5e9-ecc5-42b7-9dbc-f189a45bd505.png)
-##### Figure 2 above displays the election results that were printed on the terminal and text file
+##### Figure 2 above displays the temperature summary statistics for the month of December
 
 
 
