@@ -17,26 +17,28 @@ The analysis had few tasks. For Deliverable 1 and Deliverable 2 Using Python, Pa
 ### June Temperature Summary Statistics
 ![june_temps](https://user-images.githubusercontent.com/107658895/184564290-11f934c2-86f1-44c6-9b69-5bc9eec5b2f8.png)
 ##### Figure 1: Displays the temperature summary statistics for the month of December
+* Average Temperature
+  * 74.94F
+* Minimum Temperature 
+  * 64F
+* Maximum Temperature
+  * 85F
+* Standard Deviation
+  * (+/-) 3.26F
+
 
 ### December Temperature Summary Statistics
 ![december_temps](https://user-images.githubusercontent.com/107658895/184564409-3733e5e9-ecc5-42b7-9dbc-f189a45bd505.png)
 ##### Figure 2: Displays the temperature summary statistics for the month of December
+* Average Temperature
+  * 71.04F
+* Minimum Temperature 
+  * 56F
+* Maximum Temperature
+  * 83F
+* Standard Deviation
+  * (+/-) 3.75F
 
-In this congressional election, there were 369,711 votes that were cast. Provided below are the counties with the largest number of votes in decending order:
-* Denver
-  * 306,055 votes (82.8%)
-* Jefferson 
-  * 38,855 votes (10.5%)
-* Arapahoe
-  * 24,801 votes (6.7%)
-
-Below is a breakdown of the number of votes and their respective percentage of the total votes each candidate recieved. The canidate that won was Diana DeGette and the runners up in decending order by total votes are shown below:
-* Diana DeGette
-  * 272,892 votes (73.8%)    
-* Charles Casper Stockham
-  * 85,213 votes (23.0%)
-* Raymon Anthony Doane
-  * 11,606 votes (3.1%)
 
 ## Summary
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
