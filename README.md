@@ -1,7 +1,7 @@
 # Surfs Up
 Performing analysis on Hawaii temperatures to uncover seasonal trends.
 ## Overview of Project
-This weeks challenge helps us build upon our skills learned in the python module. For deliverables, the client wanted additional information analyzed from the election results. To complete the audit, for loops, conditional statements with memberships and logical operators were used to investigate parameters such as percentage vote by county, voter and county turnout. To concluded the summary, a text file was generated to record the findings.
+This weeks challenge helps us build upon our skills learned in this weeks module. For deliverables, the client wanted additional information analyzed about temperature trends before opening the surf shop. Temperature data for the months of June and December in Oahu were investigated in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 
 Overview of the analysis: Explain the purpose of this analysis
@@ -12,7 +12,15 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
 
-The analysis had few tasks. For deliverable 1, votes for counties and candidates and the winning election results were required to be printed on the terminal, shown in Figure 1. Deliverable 2 required this data to be generated in a text file. It was a key element to generate dictionaries and lists with the data contained in CVS file to fulfill the requirements.
+The analysis had few tasks. For Deliverable 1 and Deliverable 2 Using Python, Pandas functions and methods, and SQLAlchemy, date data was filtered from the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June and December. Then each month's tepmerature were convereted to a list and dataframe to generate the summary statistics.
+
+### June Temperature Summary Statistics
+![june_temps](https://user-images.githubusercontent.com/107658895/184564290-11f934c2-86f1-44c6-9b69-5bc9eec5b2f8.png)
+##### Figure 1 above displays the temperature summary statistics for the month of December
+
+### December Temperature Summary Statistics
+![december_temps](https://user-images.githubusercontent.com/107658895/184564409-3733e5e9-ecc5-42b7-9dbc-f189a45bd505.png)
+##### Figure 2 above displays the temperature summary statistics for the month of December
 
 In this congressional election, there were 369,711 votes that were cast. Provided below are the counties with the largest number of votes in decending order:
 * Denver
@@ -29,16 +37,6 @@ Below is a breakdown of the number of votes and their respective percentage of t
   * 85,213 votes (23.0%)
 * Raymon Anthony Doane
   * 11,606 votes (3.1%)
-
-### Election Results Summary
-![june_temps](https://user-images.githubusercontent.com/107658895/184564290-11f934c2-86f1-44c6-9b69-5bc9eec5b2f8.png)
-##### Figure 1 above displays the temperature summary statistics for the month of December
-
-### Election Results Summary
-![december_temps](https://user-images.githubusercontent.com/107658895/184564409-3733e5e9-ecc5-42b7-9dbc-f189a45bd505.png)
-##### Figure 2 above displays the temperature summary statistics for the month of December
-
-
 
 ## Summary
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
