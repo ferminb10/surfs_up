@@ -3,15 +3,7 @@ Performing analysis on Hawaii temperatures to uncover seasonal trends.
 ## Overview of Project
 This weeks challenge helps us build upon our skills learned in this weeks module. For deliverables, the client wanted additional information analyzed about temperature trends before opening the surf shop. Temperature data for the months of June and December in Oahu were investigated in order to determine if the surf and ice cream shop business is sustainable year-round.
 
-
-Overview of the analysis: Explain the purpose of this analysis
-The purpose of the analysis is well defined. (3 pt)
-
 ## Results
-Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-
-
 The analysis had few tasks. For Deliverable 1 and Deliverable 2 Using Python, Pandas functions and methods, and SQLAlchemy, date data was filtered from the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June and December. Then each month's tepmerature were convereted to a list and dataframe to generate the summary statistics.
 
 ### June Temperature Summary Statistics
@@ -41,10 +33,6 @@ The analysis had few tasks. For Deliverable 1 and Deliverable 2 Using Python, Pa
 
 
 ## Summary
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-
 Based on the summary statistic results for two months, it's seen that on average, temperatures are sustainanle enough to start a surf and ice cream shop business year-round. Other paramaters, such as tidal activity or tourist activity per island, can be a important parameters to further investigate whether a surf shop is sustainable year round. It'll give valuable information if people surf in the cold months and in which Hawaii island. Finally another query should be made for each winter month of Hawaii. It was just assumed that December was the coldest month. After further investigation for the month of january it was found that it was a much colder difference than June to December.
 
 ![january_temps](https://user-images.githubusercontent.com/107658895/184568211-cb3e7270-00d1-400e-b9c6-d3a3aa80124d.png)
-
